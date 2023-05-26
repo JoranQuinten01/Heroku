@@ -1,0 +1,1 @@
+web gunicorn Vti-Book.wsgi:apllication --log-file -
